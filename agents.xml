@@ -1,0 +1,28 @@
+<object-stream>
+  <list>
+    <sample.User>
+      <username>lsichaAgent</username>
+      <password>root</password>
+      <firstname>Lukasz</firstname>
+      <surname>Sicha</surname>
+      <email>lukasz@gmail.com</email>
+      <phoneNumber>8999842</phoneNumber>
+    </sample.User>
+    <sample.User>
+      <username>Davin</username>
+      <password>davin</password>
+      <firstname>Davin</firstname>
+      <surname>Fortune</surname>
+      <email>davino@gmail.com</email>
+      <phoneNumber>9078934</phoneNumber>
+    </sample.User>
+    <sample.User>
+      <username>lukasz</username>
+      <password>lukasz</password>
+      <firstname>xx</firstname>
+      <surname>xx</surname>
+      <email>xx</email>
+      <phoneNumber>7543</phoneNumber>
+    </sample.User>
+  </list>
+</object-stream>

@@ -1,0 +1,12 @@
+<object-stream>
+  <list>
+    <sample.User>
+      <username>lsichaAdmin</username>
+      <password>root</password>
+      <firstname>lukasz@gmail.com</firstname>
+      <surname>Sicha</surname>
+      <email>lukasz@gmail.com</email>
+      <phoneNumber>9875356</phoneNumber>
+    </sample.User>
+  </list>
+</object-stream>

@@ -1,0 +1,202 @@
+<object-stream>
+  <list>
+    <sample.Property>
+      <propertyId>0</propertyId>
+      <description>2 Bedrooms</description>
+      <address>17 Yellowstone</address>
+      <category>Cork</category>
+      <locationGeneral>Single House</locationGeneral>
+      <locationSpecific>Waterford</locationSpecific>
+      <BER>W12</BER>
+      <Eircode>X71H821</Eircode>
+      <price>15000.0</price>
+    </sample.Property>
+    <sample.Property>
+      <propertyId>1</propertyId>
+      <description>2 Bedrooms, 1 Kitchen, 1 Room</description>
+      <address>17 Yellowstone</address>
+      <category>Waterford</category>
+      <locationGeneral>Single House</locationGeneral>
+      <locationSpecific>Tramore</locationSpecific>
+      <BER>W14</BER>
+      <Eircode>X91H782</Eircode>
+      <price>10000.0</price>
+    </sample.Property>
+    <sample.Property>
+      <propertyId>2</propertyId>
+      <description>1 Bedroom, 1 Kitchem, 1 Big Room</description>
+      <address>82 RockStreet</address>
+      <category>Waterford</category>
+      <locationGeneral>Apartment</locationGeneral>
+      <locationSpecific>Waterford</locationSpecific>
+      <BER>W56</BER>
+      <Eircode>X71H842</Eircode>
+      <price>20000.0</price>
+    </sample.Property>
+    <sample.Property>
+      <propertyId>3</propertyId>
+      <description>2 Bedroom, 1 Kitchem, 1 Big Room</description>
+      <address>13 RockStreet</address>
+      <category>Waterford</category>
+      <locationGeneral>Apartment</locationGeneral>
+      <locationSpecific>Waterford</locationSpecific>
+      <BER>W56</BER>
+      <Eircode>X71H845</Eircode>
+      <price>25000.0</price>
+    </sample.Property>
+    <sample.Property>
+      <propertyId>4</propertyId>
+      <description>4 Bedroom, 2 Kitchem, 4 Big Room</description>
+      <address>20 Riverwook</address>
+      <category>Waterford</category>
+      <locationGeneral>Single House</locationGeneral>
+      <locationSpecific>Waterford</locationSpecific>
+      <BER>W56</BER>
+      <Eircode>X71H814</Eircode>
+      <price>30000.0</price>
+    </sample.Property>
+    <sample.Property>
+      <propertyId>5</propertyId>
+      <description>2 Bedroom,1  Kitchem, 1 Big Room</description>
+      <address>20/1 Clarinwood</address>
+      <category>Waterford</category>
+      <locationGeneral>Single House</locationGeneral>
+      <locationSpecific>Tramore</locationSpecific>
+      <BER>W56</BER>
+      <Eircode>X51H812</Eircode>
+      <price>15000.0</price>
+    </sample.Property>
+    <sample.Property>
+      <propertyId>6</propertyId>
+      <description>1 Bedroom, 2 Kitchens, 1 Bigroom</description>
+      <address>721 Cork Road</address>
+      <category>Wexford</category>
+      <locationGeneral>Single House</locationGeneral>
+      <locationSpecific>Wexford</locationSpecific>
+      <BER>W67</BER>
+      <Eircode>X36H352</Eircode>
+      <price>17500.0</price>
+    </sample.Property>
+    <sample.Property>
+      <propertyId>7</propertyId>
+      <description>1 Bedroom, 2 Kitchens, 1 Bigroom</description>
+      <address>722 Cork Road</address>
+      <category>Wexford</category>
+      <locationGeneral>Single House</locationGeneral>
+      <locationSpecific>Wexford</locationSpecific>
+      <BER>W67</BER>
+      <Eircode>X36H352</Eircode>
+      <price>17500.0</price>
+    </sample.Property>
+    <sample.Property>
+      <propertyId>8</propertyId>
+      <description>1 Bedroom, 2 Kitchens, 1 Bigroom</description>
+      <address>721 Cork Road</address>
+      <category>Wexford</category>
+      <locationGeneral>Single House</locationGeneral>
+      <locationSpecific>Wexford</locationSpecific>
+      <BER>W67</BER>
+      <Eircode>X36H354</Eircode>
+      <price>17500.0</price>
+    </sample.Property>
+    <sample.Property>
+      <propertyId>9</propertyId>
+      <description>2 Beedrooms, 1 Kitchen, 1 Big room</description>
+      <address>917 Riverstown</address>
+      <category>Waterford</category>
+      <locationGeneral>Single House</locationGeneral>
+      <locationSpecific>Tramore</locationSpecific>
+      <BER>W61</BER>
+      <Eircode>X91H761</Eircode>
+      <price>120000.0</price>
+    </sample.Property>
+    <sample.Property>
+      <propertyId>10</propertyId>
+      <description>2 Beedrooms, 1 Kitchen, 1 Big room</description>
+      <address>918 Riverstown</address>
+      <category>Waterford</category>
+      <locationGeneral>Single House</locationGeneral>
+      <locationSpecific>Tramore</locationSpecific>
+      <BER>W61</BER>
+      <Eircode>X91H762</Eircode>
+      <price>120000.0</price>
+    </sample.Property>
+    <sample.Property>
+      <propertyId>11</propertyId>
+      <description>5 Bedrooms, 2kitchems, 2Toilets, 2 big rooms</description>
+      <address>18 Parkstreet</address>
+      <category>Waterford</category>
+      <locationGeneral>Double House</locationGeneral>
+      <locationSpecific>Tramore</locationSpecific>
+      <BER>W61</BER>
+      <Eircode>X91H311</Eircode>
+      <price>80000.0</price>
+    </sample.Property>
+    <sample.Property>
+      <propertyId>12</propertyId>
+      <description>1 Bedroom, 1Kitchen, 1 Toilet</description>
+      <address>82 Newroos Road</address>
+      <category>Cork</category>
+      <locationGeneral>Apartment</locationGeneral>
+      <locationSpecific>Cork</locationSpecific>
+      <BER>W17</BER>
+      <Eircode>X51H985</Eircode>
+      <price>13000.0</price>
+    </sample.Property>
+    <sample.Property>
+      <propertyId>13</propertyId>
+      <description>1 Bedroom, 1Kitchen, 1 Toilet</description>
+      <address>12 CountyRoad</address>
+      <category>Cork</category>
+      <locationGeneral>Apartment</locationGeneral>
+      <locationSpecific>Cork</locationSpecific>
+      <BER>W17</BER>
+      <Eircode>X51H985</Eircode>
+      <price>18000.0</price>
+    </sample.Property>
+    <sample.Property>
+      <propertyId>14</propertyId>
+      <description>8 Bedrooms, 3 Toilets, 3 Kitchens, 4 Big rooms</description>
+      <address>20 Mainstreet</address>
+      <category>Waterford</category>
+      <locationGeneral>Single House</locationGeneral>
+      <locationSpecific>Waterford</locationSpecific>
+      <BER>W25</BER>
+      <Eircode>X81H783</Eircode>
+      <price>255000.0</price>
+    </sample.Property>
+    <sample.Property>
+      <propertyId>15</propertyId>
+      <description>8 Bedrooms, 3 Toilets, 3 Kitchens, 4 Big rooms</description>
+      <address>21 Mainstreet</address>
+      <category>Waterford</category>
+      <locationGeneral>Single House</locationGeneral>
+      <locationSpecific>Waterford</locationSpecific>
+      <BER>W26</BER>
+      <Eircode>X81H784</Eircode>
+      <price>255000.0</price>
+    </sample.Property>
+    <sample.Property>
+      <propertyId>18</propertyId>
+      <description>Hello</description>
+      <address>6 suncrest</address>
+      <category>Waterford</category>
+      <locationGeneral>Detached</locationGeneral>
+      <locationSpecific>Tramore</locationSpecific>
+      <BER>W23</BER>
+      <Eircode>X918H13</Eircode>
+      <price>20000.0</price>
+    </sample.Property>
+    <sample.Property>
+      <propertyId>18</propertyId>
+      <description>Goodbay</description>
+      <address>6 suncrest</address>
+      <category>Any</category>
+      <locationGeneral>Any</locationGeneral>
+      <locationSpecific>Tramore</locationSpecific>
+      <BER>W23</BER>
+      <Eircode>X918H13</Eircode>
+      <price>20000.0</price>
+    </sample.Property>
+  </list>
+</object-stream>
